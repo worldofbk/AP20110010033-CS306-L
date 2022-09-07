@@ -1,0 +1,9 @@
+
+int main() {
+    if (10 <= 0) {
+        displayTrue();
+    } 
+    else {
+        displayFalse();
+    }
+}

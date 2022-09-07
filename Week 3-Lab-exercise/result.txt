@@ -1,0 +1,26 @@
+
+int : keyword 
+main : identifier
+(
+)
+{
+if : keyword 
+(
+10: number
+<= : relational operator 
+0: number
+)
+{
+displayTrue : identifier
+(
+)
+;
+}
+else : keyword 
+{
+displayFalse : identifier
+(
+)
+;
+}
+}
